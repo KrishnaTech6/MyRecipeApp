@@ -2,6 +2,16 @@
 
 MyRecipeApp is a simple and elegant recipe application built using Kotlin and Jetpack Compose. This app fetches and displays recipe categories from TheMealDB API. The current version of the app focuses on displaying recipe categories, and future updates will expand its features to make it a comprehensive recipe app.
 
+
+## Technologies Used
+
+- **Kotlin:** Programming language used for app development.
+- **Jetpack Compose:** Modern toolkit for building native Android UI.
+- **Retrofit:** Type-safe HTTP client for making API calls.
+- **Coil:** Image loading library for Android backed by Kotlin Coroutines.
+- **TheMealDB API:** Open, crowd-sourced database of recipes from around the world.
+
+
 ## Features
 
 - **Fetch Recipe Categories:** The app fetches recipe categories from TheMealDB API and displays them in a grid layout.
@@ -17,14 +27,6 @@ _On opening the app, the main screen displays a grid of recipe categories fetche
 
 
 _Each category is displayed with an image and the category name._
-
-## Technologies Used
-
-- **Kotlin:** Programming language used for app development.
-- **Jetpack Compose:** Modern toolkit for building native Android UI.
-- **Retrofit:** Type-safe HTTP client for making API calls.
-- **Coil:** Image loading library for Android backed by Kotlin Coroutines.
-- **TheMealDB API:** Open, crowd-sourced database of recipes from around the world.
 
 ## Code Overview
 
