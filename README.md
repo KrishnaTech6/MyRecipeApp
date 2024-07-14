@@ -29,6 +29,9 @@ _On opening the app, the main screen displays a grid of recipe categories fetche
 
 _Each category is displayed with an image and the category name._
 
+
+_If a recipe is clicked , than the Recipe Detail screen appears, giving details about it._
+
 ## Code Overview
 
 - **MainActivity.kt**
