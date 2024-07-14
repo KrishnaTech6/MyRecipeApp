@@ -42,7 +42,7 @@ _Each category is displayed with an image and the category name._
 
 - **MainViewModel.kt**
   - ViewModel that manages the app's data and handles API calls.
-- **RecipeApp.kt **
+- **RecipeApp.kt**
   - It contains the logic of navigation between recipe screen and details screen , passing data from one to another.
 
 ## Future Plans
