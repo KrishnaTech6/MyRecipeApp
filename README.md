@@ -19,6 +19,7 @@ MyRecipeApp is a simple and elegant recipe application built using Kotlin and Je
 - **Error Handling:** Displays an error message if there is an issue fetching the data.
 - **Lazy Loading:** Uses Jetpack Compose's `LazyVerticalGrid` to display categories in a grid layout.
 - **Image Loading:** Uses Coil for loading images asynchronously.
+- **Navigation:** Navigate between the main recipe screen and detailed recipe screen.
 
 ## Screenshots
 
@@ -41,6 +42,8 @@ _Each category is displayed with an image and the category name._
 
 - **MainViewModel.kt**
   - ViewModel that manages the app's data and handles API calls.
+- **RecipeApp.kt **
+  - It contains the logic of navigation between recipe screen and details screen , passing data from one to another.
 
 ## Future Plans
 
